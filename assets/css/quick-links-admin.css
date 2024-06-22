@@ -1,0 +1,15 @@
+.menu-settings,
+.manage-menus,
+.nav-tab-wrapper,
+.hide-if-no-customize,
+#menu-to-edit .field-xfn,
+#menu-to-edit .field-description,
+.eos-hidden{
+    display: none !important
+}
+.eos-not-visible{
+	visibility:hidden !important
+}
+.eos-quil-sec{
+	margin:48px 0
+}	
